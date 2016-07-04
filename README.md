@@ -219,3 +219,7 @@ class UsersController extends Controller {
 [This](http://shawnmc.cool/the-repository-pattern) article by Shawn McCool
 
 [This](https://laracasts.com/lessons/repositories-simplified) Jeffrey Way's lesson from Laracasts
+
+## License
+
+[MIT license](http://opensource.org/licenses/MIT)
