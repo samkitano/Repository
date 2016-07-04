@@ -333,6 +333,7 @@ abstract class Repository implements RepositoryInterface, CriteriaInterface
         }
 
         $this->criteria->push($criteria);
+
         return $this;
     }
 
@@ -341,7 +342,7 @@ abstract class Repository implements RepositoryInterface, CriteriaInterface
      */
     public function applyCriteria()
     {
-        if ($this->skipCriteria === true) {
+        if ($this->ignoreCriteria === true) {
             return $this;
         }
 
