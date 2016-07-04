@@ -32,5 +32,6 @@
         "psr-4": {
             "Kitano\\Tests\\Repository\\": "tests/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
