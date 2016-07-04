@@ -8,7 +8,7 @@ use \PHPUnit_Framework_TestCase as TestCase;
 use Illuminate\Database\Eloquent\Model;
 use \Mockery as m;
 
-class RepositoryTest extends PHPUnit_Framework_TestCase
+class RepositoryTest extends TestCase
 {
     protected $mock;
 
