@@ -1,0 +1,33 @@
+{
+    "name": "samkitano/repository",
+    "description": "Repository Pattern for Laravel 5.2",
+    "keywords": [
+        "laravel",
+        "repository",
+        "repositories",
+        "eloquent",
+        "database"
+    ],
+    "licence": "MIT",
+    "authors": [
+        {
+            "name": "Sam Kitano",
+            "email": "sam.kitano@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.*",
+        "illuminate/database": "5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Kitano\\Repository\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Kitano\\Tests\\Repository\\": "tests/"
+        }
+    }
+}
