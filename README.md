@@ -11,7 +11,7 @@ is a very important concept to properly implement a data access layer for any me
 
 As stated above, this package is a personal implementation of Bosniadev's for my projects and testings.
 
-Thus, for the time being, you most definitely should use [his](https://github.com/Bosnadev/Repositories) package instead of this one,
+Thus, for the time being, you most definitely should use [that](https://github.com/Bosnadev/Repositories) package instead of this one,
 and follow it's instructions.
 
 ## INSTALL
