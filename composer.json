@@ -20,6 +20,9 @@
         "illuminate/support": "5.*",
         "illuminate/database": "5.*"
     },
+    "require-dev": {
+        "mockery/mockery": "dev-master@dev"
+    },
     "autoload": {
         "psr-4": {
             "Kitano\\Repository\\": "src/"
