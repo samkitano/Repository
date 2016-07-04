@@ -208,7 +208,7 @@ class UsersController extends Controller {
         return response()->json($this->user->all());
     }
 }
-
+```
 
 ## Credits
 
