@@ -280,7 +280,7 @@ abstract class Repository implements RepositoryInterface, CriteriaInterface
      */
     public function resetScope()
     {
-        $this->skipCriteria(false);
+        $this->ignoreCriteria(false);
 
         return $this;
     }
