@@ -8,7 +8,7 @@
         "eloquent",
         "database"
     ],
-    "licence": "MIT",
+    "license": "MIT",
     "authors": [
         {
             "name": "Sam Kitano",
