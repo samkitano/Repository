@@ -160,7 +160,7 @@ $this->user->findWhere([
 ```php
 <?php
 
-namespace App\Repositories\Criteria\Films;
+namespace App\Repositories\Criteria\Users;
 
 use Carbon\Carbon;
 use Kitano\Repository\Criteria\Criteria;
